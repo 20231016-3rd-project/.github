@@ -194,7 +194,7 @@
 * <p style="font-weight:bold; font-size: 15px; display: contents;">리뷰 삭제</p>
 
   - 리뷰 삭제 시 reviewId에 해당하는 리뷰 공감 삭제
-   + 원본과 썸네일용 리사이징된 이미지 S3에서 삭제됨 
+    +  원본과 썸네일용 리사이징된 이미지 S3에서 삭제됨 
 * <p style="font-weight:bold; font-size: 15px; display: contents;">식당 정보 수정/폐업 신고 확인</p>
 
   -
