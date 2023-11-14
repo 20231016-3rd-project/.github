@@ -190,7 +190,7 @@
 
 * <p style="font-weight:bold; font-size: 15px; display: contents;">리뷰 신고 확인</p>
 
-  - 리뷰 신고 된 리스트 조회 가능
+  - 신고 된 리뷰 리스트 조회 가능
 * <p style="font-weight:bold; font-size: 15px; display: contents;">리뷰 삭제</p>
 
   - 리뷰 삭제 시 reviewId에 해당하는 리뷰 공감 삭제
