@@ -173,6 +173,9 @@
 * <p style="font-weight:bold; font-size: 15px; display: contents;">리뷰 신고</p>
 
   - 신고 시 관리자쪽에서 리스트 조회 가능
+* <p style="font-weight:bold; font-size: 15px; display: contents;">식당 정보 수정 요청 / 폐업 신고 접수</p>
+
+  - 식당 정보 수정 요청 / 폐업 신고 접수 할 시 관리자쪽에서 리스트 조회 가능
 
 </div>
 </details>
@@ -191,6 +194,9 @@
 * <p style="font-weight:bold; font-size: 15px; display: contents;">리뷰 신고 확인</p>
 
   - 신고 된 리뷰 리스트 조회 가능
+* <p style="font-weight:bold; font-size: 15px; display: contents;">식당 정보 수정 / 폐업신고 확인</p>
+
+  - 식당 정보 수정 / 폐업신고 확인
 * <p style="font-weight:bold; font-size: 15px; display: contents;">리뷰 삭제</p>
 
   - 리뷰 삭제 시 reviewId에 해당하는 리뷰 공감 삭제
