@@ -21,7 +21,8 @@
 -------------
 ## 🚩 프로젝트 개요
 
-* **프로젝트 명**&nbsp; :  <p style="color: orange; display: contents;">&nbsp;**SunflowerPlate**</p>
+* <p style= "display: contents; font-weight:bold;">프로젝트명 : </p> <p style="color: orange; display: contents; font-weight:bold;">&nbsp;SunflowerPlate</p>
+
 * **진행 기간** &nbsp;: &nbsp; 
 **23.10.16 ~ 23.11.10**
 -------------
