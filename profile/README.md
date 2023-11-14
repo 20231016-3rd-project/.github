@@ -149,4 +149,31 @@
 
 </div>
 </details>
+
+<details>
+<summary style="font-weight:bold; font-size: 25px">3. 리뷰 </summary>
+<div dir="auto">
+
+<br>
+
+<p style="font-weight:bold; font-size: 20px;">🌟FE🌟</p>
+
+
+<p style="font-weight:bold; font-size: 20px;">🌟BE🌟</p>
+
+* <p style="font-weight:bold; font-size: 15px; display: contents;">리뷰 등록</p>
+
+  - 식당에 대한 리뷰, 별점과 함께 AWS S3을 이용한 이미지 업로드 기능으로 리뷰 이미지 등록
+    + 이미지는 원본과 썸네일용 리사이징된 이미지가 S3에 저장됨 
+* <p style="font-weight:bold; font-size: 15px; display: contents;">리뷰 공감</p>
+
+  - 게시글 좋아요 기능 (토글 방식)
+   + 첫 좋아요 실행 → true 생성
+   + 다시 눌렀을 때 false 로 반환 , 다시 누르면 true 값으로 반환
+* <p style="font-weight:bold; font-size: 15px; display: contents;">리뷰 신고</p>
+
+  - 신고 시 관리자쪽에서 리스트 조회 가능
+
+</div>
+</details>
 <br>
