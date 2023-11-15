@@ -212,6 +212,6 @@
 ### [📌 Swagger](https://www.sunflowerplate.store/swagger-ui/index.html)
 ### [📌 Notion](https://spice-tadpole-1ff.notion.site/Sunflower-Plate-0dfda02077494a57bc5fac08fc635f17?pvs=4)
 ### 📌 ERD
-<img src="..\images\sunflowerplate.png">
+<img src="\images\sunflowerplate.png">
 
 -------------
