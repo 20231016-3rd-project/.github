@@ -150,6 +150,7 @@
 </div>
 </details>
 
+<details>
 <summary style="font-weight:bold; font-size: 25px">2. 식당정보 </summary>
 <div dir="auto">
 
