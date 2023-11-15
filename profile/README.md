@@ -109,40 +109,40 @@
 
 <br>
 
-<p style="font-weight:bold; font-size: 20px;">🌟FE🌟</p>
+**🌟FE🌟**
 
 
-<p style="font-weight:bold; font-size: 20px;">🌟BE🌟</p>
+**🌟BE🌟**
 
-* <p style="font-weight:bold; font-size: 15px; display: contents;">로그인</p>
+* **로그인**
 
   - 기본 로그인 : 아이디와 비밀번호를 입력받아 로그인 처리  
   - 소셜 로그인 : 카카오 로그인(기본로그인 연동)
     + 소셜 로그인 시 연동된 계정이 있는지 확인 / 없을시 기본로그인 요청
     + 연동된 계정이 있을경우 로그인 처리
-* <p style="font-weight:bold; font-size: 15px; display: contents;"> JWT : 고유 토큰 활용을 통한 유저 인증 강화</p>
+* **JWT : 고유 토큰 활용을 통한 유저 인증 강화**
 
     - 서버에서 토큰을 발급하여 기본로그인 / 소셜 로그인에 관계 없이 회원 관리
       + accessToken은 body에 refreshToken은 쿠키에 HttpOnly,Secure 설정하여 넘김
     - accessToken 30분, refreshToken 2주의 기간 설정
-* <p style="font-weight:bold; font-size: 15px; display: contents;">회원가입</p>
+* **회원가입**
 
     - 이메일 , 비밀번호 , 닉네임 , 전화번호를 입력받음
       + 이메일 / 닉네임 / 전화번호는 Unique해야함
       + 이메일 / 닉네임 중복체크 구현
       + 회원가입시 기본이미지가 프로필이미지로 지정됨
-* <p style="font-weight:bold; font-size: 15px; display: contents;">회원수정</p>
+* **회원수정**
 
   - 닉네임 , 비밀번호 , 닉네임 , 전화번호 , 프로필사진 변경 가능
     + 이미지는 원본과 썸네일용 리사이징된 이미지가 S3에 저장됨 
 
-* <p style="font-weight:bold; font-size: 15px; display: contents;">회원탈퇴</p>
+* **회원탈퇴**
 
   - 회원탈퇴시 DB 물리적삭제가 아닌 논리적삭제로 회원상태 탈퇴로 전환함
-* <p style="font-weight:bold; font-size: 15px; display: contents;">로그아웃</p>
+* **로그아웃**
 
   - 쿠키에 refreshToken 값을 null로 변경함에 따른 보안 강화
-* <p style="font-weight:bold; font-size: 15px; display: contents;">토큰갱신</p>
+* **토큰갱신**
 
   - refreshToken 값을 이용한 accessToken, refreshToken 갱신
 
@@ -156,15 +156,15 @@
 
 <br>
 
-<p style="font-weight:bold; font-size: 20px;">🌟FE🌟</p>
+**🌟FE🌟**
 
 
-<p style="font-weight:bold; font-size: 20px;">🌟BE🌟</p>
+**🌟BE🌟**
 
-* <p style="font-weight:bold; font-size: 15px; display: contents;">식당 정보, 리뷰 조회</p>
+* **식당 정보, 리뷰 조회**
 
   - 내용
-* <p style="font-weight:bold; font-size: 15px; display: contents;">식당 정보 검색</p>
+* **식당 정보 검색**
 
   - 내용
 </div>
@@ -176,24 +176,24 @@
 
 <br>
 
-<p style="font-weight:bold; font-size: 20px;">🌟FE🌟</p>
+**🌟FE🌟**
 
 
-<p style="font-weight:bold; font-size: 20px;">🌟BE🌟</p>
+**🌟BE🌟**
 
-* <p style="font-weight:bold; font-size: 15px; display: contents;">리뷰 등록</p>
+* **리뷰 등록**
 
   - 식당에 대한 리뷰, 별점과 함께 AWS S3을 이용한 이미지 업로드 기능으로 리뷰 이미지 등록
     + 이미지는 원본과 썸네일용 리사이징된 이미지가 S3에 저장됨 
-* <p style="font-weight:bold; font-size: 15px; display: contents;">리뷰 공감</p>
+* **리뷰 공감**
 
   - 게시글 좋아요 기능 (토글 방식)
    + 첫 좋아요 실행 → true 생성
    + 다시 눌렀을 때 false 로 반환 , 다시 누르면 true 값으로 반환
-* <p style="font-weight:bold; font-size: 15px; display: contents;">리뷰 신고</p>
+* **리뷰 신고**
 
   - 신고 시 관리자쪽에서 리스트 조회 가능
-* <p style="font-weight:bold; font-size: 15px; display: contents;">식당 정보 수정 요청 / 폐업 신고 접수</p>
+* **식당 정보 수정 요청 / 폐업 신고 접수**
 
   - 식당 정보 수정 요청 / 폐업 신고 접수 할 시 관리자쪽에서 리스트 조회 가능
 
@@ -206,26 +206,59 @@
 
 <br>
 
-<p style="font-weight:bold; font-size: 20px;">🌟FE🌟</p>
+**🌟FE🌟**
 
 
-<p style="font-weight:bold; font-size: 20px;">🌟BE🌟</p>
-* <p style="font-weight:bold; font-size: 15px; display: contents;">식당 정보 등록</p>
-
-  - 내용
-* <p style="font-weight:bold; font-size: 15px; display: contents;">식당 정보 수정</p>
+**🌟BE🌟**
+* **식당 정보 등록**
 
   - 내용
-* <p style="font-weight:bold; font-size: 15px; display: contents;">리뷰 신고 확인</p>
+* **식당 정보 수정**
+
+  - 내용
+* **리뷰 신고 확인**
 
   - 신고 된 리뷰 리스트 조회 가능
-* <p style="font-weight:bold; font-size: 15px; display: contents;">식당 정보 수정 / 폐업신고 확인</p>
+* **식당 정보 수정 / 폐업신고 확인**
 
   - 식당 정보 수정 / 폐업신고 확인
-* <p style="font-weight:bold; font-size: 15px; display: contents;">리뷰 삭제</p>
+* **리뷰 삭제**
 
   - 리뷰 삭제 시 reviewId에 해당하는 리뷰 공감 삭제
      + 원본과 썸네일용 리사이징된 이미지 S3에서 삭제됨 
+</div>
+</details>
+<br>
+
+<details>
+<summary style="font-weight:bold; font-size: 25px">5. 마이페이지 </summary>
+<div dir="auto">
+
+<br>
+
+**🌟FE🌟**
+
+
+**🌟BE🌟**
+* **내가 쓴 리뷰 확인**
+  - 토큰에 있는 유저ID 값으로 그에 맞는 유저의 리뷰 리스트를 보여줌
+  - 식당ID, 식당이름, 리뷰내용, 별점, 리뷰사진, 리뷰작성시간 출력
+
+* **내가 쓴 리뷰 수정**
+  - 토큰에 있는 유저ID 값으로 그에 맞는 유저의 리뷰를 수정
+  - 리뷰내용, 리뷰사진 수정 가능
+  - 사진 수정할 때도 리사이징되어서 저장
+
+* **내가 쓴 리뷰 삭제**
+  - 토큰에 있는 유저ID와 리뷰를 작성한 유저의 ID가 같을 경우 리뷰 삭제
+  - 유저ID값이 서로 다를 경우 권한이 없다고 에러 발생 후 리뷰 삭제 실패
+
+* **내가 저장한 장소 목록**
+  - 토큰에 있는 유저ID 값으로 그에 맞는 유저의 저장된 식당 리스트를 보여줌
+  - 식당ID, 식당이름, 식당주소, 식당웹사이트, 식당대표사진 출력
+  - 식당대표사진은 리사이징된 사진 리스트의 0번째 사진
+
+  
 </div>
 </details>
 <br>
