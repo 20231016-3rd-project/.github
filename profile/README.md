@@ -150,6 +150,27 @@
 </div>
 </details>
 
+<summary style="font-weight:bold; font-size: 25px">2. 식당정보 </summary>
+<div dir="auto">
+
+<br>
+
+<p style="font-weight:bold; font-size: 20px;">🌟FE🌟</p>
+
+
+<p style="font-weight:bold; font-size: 20px;">🌟BE🌟</p>
+
+* <p style="font-weight:bold; font-size: 15px; display: contents;">식당 정보, 리뷰 조회</p>
+
+  - 내용
+* <p style="font-weight:bold; font-size: 15px; display: contents;">식당 정보 검색</p>
+
+  - 내용
+
+  
+</div>
+</details>
+
 <details>
 <summary style="font-weight:bold; font-size: 25px">3. 리뷰 </summary>
 <div dir="auto">
@@ -190,7 +211,12 @@
 
 
 <p style="font-weight:bold; font-size: 20px;">🌟BE🌟</p>
+* <p style="font-weight:bold; font-size: 15px; display: contents;">식당 정보 등록</p>
 
+  - 내용
+* <p style="font-weight:bold; font-size: 15px; display: contents;">식당 정보 수정</p>
+
+  - 내용
 * <p style="font-weight:bold; font-size: 15px; display: contents;">리뷰 신고 확인</p>
 
   - 신고 된 리뷰 리스트 조회 가능
