@@ -167,8 +167,6 @@
 * <p style="font-weight:bold; font-size: 15px; display: contents;">식당 정보 검색</p>
 
   - 내용
-
-  
 </div>
 </details>
 
