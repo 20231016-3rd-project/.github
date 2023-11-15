@@ -207,10 +207,10 @@
 
 -------------
 ## 📑 관련 문서
-### [📌 화면 정의서](https://www.figma.com/file/e3paVBtBglXUo5waHjB6nr/Untitled?type=design&node-id=203-412&mode=design&t=lNjcg7qHYKyrYkNP-0)
-### [📌 Postman](https://documenter.getpostman.com/view/27578000/2s9YXiaNJj)
-### [📌 Swagger](https://www.sunflowerplate.store/swagger-ui/index.html)
-### [📌 Notion](https://spice-tadpole-1ff.notion.site/Sunflower-Plate-0dfda02077494a57bc5fac08fc635f17?pvs=4)
+### <img width="20" src="\images\figma_logo_icon_147289.png">[ 화면 정의서](https://www.figma.com/file/e3paVBtBglXUo5waHjB6nr/Untitled?type=design&node-id=203-412&mode=design&t=lNjcg7qHYKyrYkNP-0)
+### <img width="20" src="\images\postman_macos_bigsur_icon_189815.png">[ Postman](https://documenter.getpostman.com/view/27578000/2s9YXiaNJj)
+### <img width="20" src="\images\file_type_swagger_icon_130134.png">[ Swagger](https://www.sunflowerplate.store/swagger-ui/index.html)
+### <img width="20" src="\images\notion_logo_icon_147257.png">[ Notion](https://spice-tadpole-1ff.notion.site/Sunflower-Plate-0dfda02077494a57bc5fac08fc635f17?pvs=4)
 ### 📌 ERD
 <img src="\images\sunflowerplate.png">
 
