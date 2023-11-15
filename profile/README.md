@@ -228,7 +228,6 @@
      + 원본과 썸네일용 리사이징된 이미지 S3에서 삭제됨 
 </div>
 </details>
-<br>
 
 <details>
 <summary style="font-weight:bold; font-size: 25px">5. 마이페이지 </summary>
