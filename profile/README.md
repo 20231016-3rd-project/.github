@@ -1,7 +1,5 @@
-<h1 align="center">🔆해바라기 플레이트🔆</h1>
-<p align="center">
-  <img src="\images\common\logo.png">
-<br>
+
+![KakaoTalk_20231116_023634614](https://github.com/20231016-3rd-project/.github/assets/132555762/3c79254e-02f8-4aa0-beb4-090f3999ea47)
 
 -------------
 ## 프로젝트 소개
