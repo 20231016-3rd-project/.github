@@ -1,5 +1,6 @@
 
-![KakaoTalk_20231116_023634614](https://github.com/20231016-3rd-project/.github/assets/132555762/3c79254e-02f8-4aa0-beb4-090f3999ea47)
+![KakaoTalk_20231116_023634614](https://github.com/20231016-3rd-project/.github/assets/132555762/31407a6b-9229-4837-8bcd-499e3fb304b6)
+
 
 -------------
 ## 프로젝트 소개
